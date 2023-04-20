@@ -1,0 +1,22 @@
+.number0 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: gray;
+    background-color: rgba(255, 153, 70, 0.856);
+
+}
+.number1 {
+    background-color: rgb(255, 180, 88);
+}
+.number2 {
+    color: saddlebrown;
+}
+.number3 {
+    color:whitesmoke;
+    font-size: 15px;    
+}
+.number4 {
+    color: whitesmoke;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
